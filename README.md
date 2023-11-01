@@ -78,14 +78,19 @@ accuracy
 
 
 ## Output:
+## DATA.HEAD() :
 ![ml 9 0](https://github.com/Brindha77/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118889143/63a7309d-0412-46ed-8290-77d342199dde)
 
+## DATA.INFO() :
 ![ml 9 i](https://github.com/Brindha77/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118889143/53442df8-1fbe-4fc7-a2ba-e5b4d9a345b5)
 
+## DATA.ISNULL().SUM():
 ![ml 9 ii](https://github.com/Brindha77/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118889143/eaab1122-5271-410c-b7df-76e66ba68d49)
 
+## Y_PRED :
 ![ml 9 iii](https://github.com/Brindha77/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118889143/3ed57365-a128-4ca6-ba1b-d7c7264e05ae)
 
+## ACCURACY :
 ![ml 9 iv](https://github.com/Brindha77/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118889143/d7a4e10e-bed8-4cbf-8dd0-200a7f85a5c5)
 
 ![ml 9 v](https://github.com/Brindha77/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118889143/156c27f2-d718-4206-9621-ab6ed999c0be)
